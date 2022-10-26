@@ -1,3 +1,29 @@
 body{
     background-color: grey;
+    width: 100;;
+}
+#blockForPeople{
+    width: 100%;
+}
+button{
+    width: 20%;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 40%;
+    color: white;
+    background-color: black;
+    margin-top: 2%;
+}
+
+.personDiv{
+    background-color: #3f3f3f;
+    float: left;
+    width: 20%;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+
+}
+img{
+    width: 100%;
 }
